@@ -8,5 +8,5 @@
 
 <br />
 <p align="center">
-  <img src="102-page-css.jpg" alt="Challenge Mockup">
+  <img src="/assets/imgages/102-page-css.jpg" alt="Challenge Mockup">
 </p>
