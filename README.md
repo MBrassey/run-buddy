@@ -8,5 +8,5 @@
 
 <br />
 <p align="center">
-  <img src="/assets/imgages/102-page-css.jpg" alt="Challenge Mockup">
+  <img src="https://raw.githubusercontent.com/luc1dLife/run-buddy/master/assets/images/102-page-css.jpg" alt="Challenge Mockup">
 </p>
