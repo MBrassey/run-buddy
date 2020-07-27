@@ -12,3 +12,6 @@
   <img src="https://raw.githubusercontent.com/luc1dLife/run-buddy/master/assets/images/102-page-css.jpg" alt="Challenge Mockup">
   </a>
 </p>
+<p align="center">
+    [ Click the above image to view the webapplication ]
+</p>
