@@ -1,4 +1,7 @@
 # RunBuddy
+
+Adding RunBuddy v2.0 & develop branch.
+
 <br />
 
 - [x] Assemble supplied HTML & CSS code
