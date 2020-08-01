@@ -4,6 +4,7 @@
 
 <br />
 <h6>v1.0</h6>
+
 - [x] Assemble supplied HTML & CSS code
 - [x] Push working code to Github
 - [x] Add styled privacy policy page
