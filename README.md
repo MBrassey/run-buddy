@@ -1,6 +1,6 @@
 # RunBuddy
 <h6>v2.0</h6>
-:octocat: Adding RunBuddy v2.0 & develop branch. .
+:octocat: Adding RunBuddy v2.0 & develop branch . . .
 
 <br />
 <h6>v1.0</h6>
