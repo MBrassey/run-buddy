@@ -87,9 +87,9 @@ section {
     color: #024e76;
 }
 
-.hero-form h3 {
+.hero-form h3 { 
+    margin-bottom: 15px;
     font-size: 24px;
-    margin: 0;
 }
 
 .hero-cta {
@@ -108,9 +108,7 @@ section {
 }
 
 .hero-form p {
-    margin: 5px 0 15px 0;
-    width: 40%;
-    margin: 3.5%;
+    margin: 15px 0 15px 0;
 }
 
 .form-input {
@@ -133,6 +131,7 @@ section {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
+    width: 80%;
 }
 
 .intro p {
@@ -197,16 +196,13 @@ section {
 }
 
 .section-title {
-    padding-bottom: 20px;
+    font-size: 48px;
+    color: #024e76;
+    border-bottom: 3px solid;
+    padding-bottom:20px;
     text-align: center;
     margin: 0 auto 35px auto;
     width: 50%;
-    font-size: 48px;
-    color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    display: inline-block;
-    border-bottom: 3px solid;
 }
 
 .primary-border {
@@ -288,6 +284,7 @@ section {
 .contact-info h3 {
     color: #fce138;
     font-size: 32px;
+    text-align: left;
 }
 
 .contact-info p,
@@ -296,6 +293,7 @@ section {
     line-height: 1.5;
     font-size: 16px;
     font-style: normal;
+    text-align: left;
 }
 
 .contact-info a {
@@ -336,49 +334,50 @@ section {
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
     header {
-        padding-bottom: 0;
-        justify-content: center;
-      }
-    
-      header h1 {
-        width: 100%;
-        text-align: center;
-      }
-    
-      header nav ul {
-        margin-top: 20px;
-        width: 100%;
-        justify-content: center;
-      }
-    
-      header nav ul li a {
-        font-size: 20px;
-      }
-    
-      footer h2, footer div {
-        text-align: center;
-        width: 100%;
-      }
+      padding-bottom: 0;
+      justify-content: center;
+    }
+  
+    header h1 {
+      width: 100%;
+      text-align: center;
+    }
+  
+    header nav ul {
+      margin-top: 20px;
+      width: 100%;
+      justify-content: center;
+    }
+  
+    header nav ul li a {
+      font-size: 20px;
+    }
+  
+    footer h2, footer div {
+      text-align: center;
+      width: 100%;
+    }
 
-      .hero-cta, .hero-form {
-          width: 100%;
-      }
+    .hero-cta, .hero-form {
+      width: 80%;
+      font-weight: bold;
+    }
+      
+    .hero-cta {
+      text-align: center;
+    }
 
-      .hero-cta {
-          text-align: center;
-      }
-
-      .section-title {
-          width: 80%;
-      }
-
-      .trainer {
-          flex: 0 70%;
-      }
-
-      .contact-info iframe {
-          flex: 1 100%;
-      }
+    .section-title {
+      width: 80%;
+    }
+      
+    .trainer {
+      flex: 0 70%;
+    }
+      
+    .contact-info iframe{
+      flex: 1 100%;
+    }
   }
   
   /* MEDIA QUERY FOR TABLETS AND SMALLER */
@@ -418,7 +417,7 @@ section {
   }
 
   .section-title {
-    width: 95%;
+    width: 85%;
   }
 
   .intro p {
