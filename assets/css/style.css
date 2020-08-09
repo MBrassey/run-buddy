@@ -172,8 +172,7 @@ section {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
-    width: 80%;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .hero-form button:hover {
@@ -228,7 +227,7 @@ section {
     color: var(--secondary-color);
 }
 
-.step info {
+.step-info {
     flex: 2 70%;
     display: flex;
     flex-wrap: wrap;
@@ -519,10 +518,15 @@ section {
         font-size: 20px;
     }
 
-    footer h2,
+    footer h2 {
+        color: var(--secondary-color);
+        font-size: 30px;
+        margin: 0;
+    }
+    
     footer div {
-        text-align: center;
-        width: 100%;
+        line-height: 1.5;
+        text-align: right;
     }
 
     .hero-cta,
