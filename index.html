@@ -58,17 +58,21 @@
       <label for="phone">Enter a telephone number:</label>
       <input type="tel" placeholder="Phone Number" name="phone" id="phone" class="form-input">
       <p>
-        Have you worked out with a trainer before? <br>
-        <input type="radio" name="trainer-confirm" id="trainer-yes" />
-        <label for="trainer-yes">Yes</label>
-        <input type="radio" name="trainer-confirm" id="trainer-no" />
-        <label for="trainer-no">No</label>
+        Have you worked out with a trainer before?
+        <span class="radio-wrapper">
+          <input type="radio" name="trainer-confirm" id="trainer-yes" />
+          <label for="trainer-yes">Yes</label>
+        </span>
+        <span class="radio-wrapper">
+          <input type="radio" name="trainer-confirm" id="trainer-no" />
+          <label for="trainer-no">No</label>
+        </span>
       </p>
       <p>
-        <label for="checkbox" >
-          I acknowledge that I am at least 18 years of age.
-        </label>
-        <input type="checkbox" name="age-confirm" id="checkbox" />
+        <span class="checkbox-wrapper">
+          <input type="checkbox" name="age-confirm" id="checkbox" />
+          <label for="checkbox">I acknowledge that I am at least 18 years of age.</label>
+        </span>
       </p>
       <button type="submit">
         Get running!
@@ -184,7 +188,7 @@
     <img src="./assets/images/trainer-3.jpg" alt="Harry Smith wearing a headband and lifting comically small pink weights" />
     <div class="trainer-bio">
       <h3 class="trainer-name">Harry "the Headband" Smith</h3>
-      <h4 class="trainer-role"Strength</h4>
+      <h4 class="trainer-role">Strength</h4>
       <p>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi neque animi quo cupiditate commodi saepe culpa sed
         itaque velit maiores optio dolorem excepturi aperiam dolores, voluptatibus suscipit amet quis repellat!
