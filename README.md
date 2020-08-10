@@ -1,6 +1,7 @@
 # RunBuddy
 <h6>v2.0</h6>
 :octocat: Implimented the following features:
+<br />
 
 - [x] [Updates for Hero Section](https://github.com/luc1dLife/run-buddy/issues/6)
 - [x] [Contact Form for Reach Out Section](https://github.com/luc1dLife/run-buddy/issues/7)
