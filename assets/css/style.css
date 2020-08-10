@@ -652,6 +652,10 @@ section {
     .contact-info iframe {
         flex: 1 100%;
     }
+
+    .contact-name label {
+        text-align: left;
+    }
 }
 
 /* Media Query for Tablets */
@@ -755,6 +759,17 @@ section {
 
 /* Media Query for iPhone X & smaller viewports */
 @media screen and (max-width: 375px) {
+    footer h2,
+    footer div {
+        font-size: 19px;
+        text-align: center;
+        width: 100%;
+    }
+
+    header h1 {
+        text-align: center;
+    }
+
     .hero-form p {
         width: 100%;
     }
@@ -766,12 +781,5 @@ section {
 
     .contact-info p {
         font-size: 20px;
-    }
-
-    footer h2,
-    footer div {
-        font-size: 19px;
-        text-align: center;
-        width: 100%;
     }
 }
