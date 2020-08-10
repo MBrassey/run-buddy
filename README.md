@@ -1,14 +1,14 @@
 # RunBuddy
 <h6>v2.0</h6>
-:octocat: Adding RunBuddy v2.0 & develop branch . . .
+:octocat: Implimented the following features:
 
-<br />
-<h6>v1.0</h6>
-
-- [x] Assemble supplied HTML & CSS code
-- [x] Push working code to Github
-- [x] Add styled privacy policy page
-- [x] Activate Github Pages for project
+- [x] [Updates for Hero Section](https://github.com/luc1dLife/run-buddy/issues/6)
+- [x] [Contact Form for Reach Out Section](https://github.com/luc1dLife/run-buddy/issues/7)
+- [x] [Advanced layouts using Flexbox](https://github.com/luc1dLife/run-buddy/issues/8)
+- [x] [Mobile responsiveness with Media Queries](https://github.com/luc1dLife/run-buddy/issues/9) 
+- [x] [Pricing table using Grid](https://github.com/luc1dLife/run-buddy/issues/10)
+- [x] [CSS enhancements and optimizations](https://github.com/luc1dLife/run-buddy/issues/11)
+- [x] [Adding animation](https://github.com/luc1dLife/run-buddy/issues/12)
 <p align="right">
     [ Click the below image to view the webapplication ]
 </p>
