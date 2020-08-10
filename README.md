@@ -7,6 +7,7 @@
 - [x] [Pricing table using Grid](https://github.com/luc1dLife/run-buddy/issues/10)
 - [x] [CSS enhancements and optimizations](https://github.com/luc1dLife/run-buddy/issues/11)
 - [x] [Adding animation](https://github.com/luc1dLife/run-buddy/issues/12)
+- [x] [Additional responsiveness](https://github.com/luc1dLife/run-buddy/issues/20)
 <h6><p align="right">[ Click the below image to view the webapplication ]</p></h6>
 <a href="https://luc1dlife.github.io/run-buddy/">
   <img src="https://raw.githubusercontent.com/luc1dLife/run-buddy/master/assets/images/Run_Buddy.jpg" alt="Challenge Mockup">
