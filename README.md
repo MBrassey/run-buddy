@@ -1,6 +1,5 @@
 # RunBuddy
-<h6>v2.0</h6>
-:octocat: Implimented the following features:
+:octocat: Implimented the following enhancements:
 <br /><br />
 
 - [x] [Updates for Hero Section](https://github.com/luc1dLife/run-buddy/issues/6)
@@ -11,7 +10,7 @@
 - [x] [CSS enhancements and optimizations](https://github.com/luc1dLife/run-buddy/issues/11)
 - [x] [Adding animation](https://github.com/luc1dLife/run-buddy/issues/12)
 <p align="right">
-    [ Click the below image to view the webapplication ]
+    <h6>[ Click the below image to view the webapplication ]</h6>
 </p>
 <p align="center">
 <a href="https://luc1dlife.github.io/run-buddy/">
