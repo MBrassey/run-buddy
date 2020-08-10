@@ -1,4 +1,4 @@
-# RunBuddy
+# Run Buddy
 
 - [x] [Updates for Hero Section](https://github.com/luc1dLife/run-buddy/issues/6)
 - [x] [Contact Form for Reach Out Section](https://github.com/luc1dLife/run-buddy/issues/7)
