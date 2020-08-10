@@ -304,7 +304,7 @@ section {
     padding: 15px;
     align-items: flex-end;
     background-size: cover;
-  }
+}
 
 .trainer-bio {
     padding: 25px;
@@ -321,7 +321,7 @@ section {
     overflow: hidden;
 }
 
-.trainer-img h3{
+.trainer-img h3 {
     position: relative;
     z-index: 9998;
     font-size: 28px;
@@ -345,7 +345,7 @@ section {
 
 .trainer:hover .trainer-img h4 {
     transform: translate(0, -200px);
-    transition-delay: 0.10s;
+    transition-delay: 0.1s;
 }
 
 .trainer-img::after {
