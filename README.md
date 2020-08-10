@@ -9,5 +9,5 @@
 - [x] [Adding animation](https://github.com/luc1dLife/run-buddy/issues/12)
 <h6><p align="right">[ Click the below image to view the webapplication ]</p></h6>
 <a href="https://luc1dlife.github.io/run-buddy/">
-  <img src="https://raw.githubusercontent.com/luc1dLife/run-buddy/master/assets/images/102-page-css.jpg" alt="Challenge Mockup">
+  <img src="https://raw.githubusercontent.com/luc1dLife/run-buddy/master/assets/images/Run_Buddy.jpg" alt="Challenge Mockup">
 </a>
