@@ -728,6 +728,10 @@ section {
 
 /* Media query for small tablets and large mobile devices */
 @media screen and (max-width: 575px) {
+    header h1 {
+        text-align: center;
+    }
+    
     .hero-form button {
         width: 100%;
     }
@@ -764,10 +768,6 @@ section {
         font-size: 19px;
         text-align: center;
         width: 100%;
-    }
-
-    header h1 {
-        text-align: center;
     }
 
     .hero-form p {
