@@ -728,10 +728,6 @@ section {
 
 /* Media query for small tablets and large mobile devices */
 @media screen and (max-width: 575px) {
-    header h1 a {
-        text-align: center;
-    }
-
     .hero-form button {
         width: 100%;
     }
@@ -763,6 +759,10 @@ section {
 
 /* Media Query for iPhone X & smaller viewports */
 @media screen and (max-width: 375px) {
+    header {
+        text-align: center;
+    }
+
     footer h2,
     footer div {
         font-size: 19px;
@@ -781,5 +781,9 @@ section {
 
     .contact-info p {
         font-size: 20px;
+    }
+
+    .contact-form {
+        text-align: left;
     }
 }
