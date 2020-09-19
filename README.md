@@ -13,4 +13,4 @@
 
 <h6><p align="right">[ Click the below image to view the <a href="https://MBrassey.github.io/run-buddy/">webapplication</a> ]</p></h6>
 
-[<p align="center"><img src="src/wallet.gif">](https://MBrassey.github.io/run-buddy/)
+[<p align="center"><img src="assets/images/Run_Buddy.jpg">](https://MBrassey.github.io/run-buddy/)
