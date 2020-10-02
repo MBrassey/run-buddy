@@ -4,6 +4,7 @@ Responsive concept page in pure HTML/CSS.
 
 ![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
 
+#### Issues
 - [x] [Updates for Hero Section](https://github.com/MBrassey/run-buddy/issues/6)
 - [x] [Contact Form for Reach Out Section](https://github.com/MBrassey/run-buddy/issues/7)
 - [x] [Advanced layouts using Flexbox](https://github.com/MBrassey/run-buddy/issues/8)
