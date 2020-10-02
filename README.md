@@ -1,10 +1,11 @@
-#### Run Buddy
+## Run Buddy
 
 Responsive concept page in pure HTML/CSS.
 
 ![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
 
 #### Issues
+
 - [x] [Updates for Hero Section](https://github.com/MBrassey/run-buddy/issues/6)
 - [x] [Contact Form for Reach Out Section](https://github.com/MBrassey/run-buddy/issues/7)
 - [x] [Advanced layouts using Flexbox](https://github.com/MBrassey/run-buddy/issues/8)
@@ -19,9 +20,11 @@ Responsive concept page in pure HTML/CSS.
 [<p align="center"><img src="assets/images/Run_Buddy.jpg">](https://MBrassey.github.io/run-buddy/)
 
 #### Questions
+
 Contact me at [matt@brassey.io](mailto:matt@brassey.io) with any questions or comments.
 
 #### License
+
 `Run-Buddy` is published under the __CC0_1.0_Universal__ license.
 
 > The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.
